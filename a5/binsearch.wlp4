@@ -1,0 +1,30 @@
+int binsearch(int* array, int size, int value){
+    int loop = 1;
+    int target = 0;
+    int start = 0;
+    int end = 0;
+    end = size; 
+    while(loop == 1) {
+        if(start >= end) {
+            loop = 0;
+            target = 0-1;
+        } else {
+            target = start + end;
+            target = target / 2;
+            if(*(array + target) == value) {
+                loop = 0;
+            } else{
+              if(*(array + target) > value) {
+                  end = target;
+              } else {
+                if(*(array + target)  < value) {
+                  start = target + 1;
+                } else {
+
+                }
+              } 
+            } 
+        }
+    }
+    return target;
+}

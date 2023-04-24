@@ -1,0 +1,109 @@
+11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+-
+9
+start
+q0
+q1
+q2
+q6
+k1
+k2
+k4
+end
+start
+7
+q1
+q2
+q6
+k1
+k2
+k4
+end
+77
+start - q0
+start 0 end
+start 1 k1
+start 2 k4
+start 3 k4
+start 4 k4
+start 5 k4
+start 6 k4
+start 7 k4
+start 8 k4
+start 9 k4
+q0 1 q1
+q0 2 k4
+q0 3 k4
+q0 4 k4
+q0 5 k4
+q0 6 k4
+q0 7 k4
+q0 8 k4
+q0 9 k4
+q1 0 q6
+q1 1 q6
+q1 2 q2
+q1 3 end
+q1 4 end
+q1 5 end
+q1 6 end
+q1 7 end
+q1 8 end
+q1 9 end
+q2 0 end
+q2 1 end
+q2 2 end
+q2 3 end
+q2 4 end
+q2 5 end
+q2 6 end
+q2 7 end
+q2 8 end
+q6 0 end
+q6 1 end
+q6 2 end
+q6 3 end
+q6 4 end
+q6 5 end
+q6 6 end
+q6 7 end
+q6 8 end
+q6 9 end
+k1 0 q6
+k1 1 q6
+k1 2 k2
+k1 3 end
+k1 4 end
+k1 5 end
+k1 6 end
+k1 7 end
+k1 8 end
+k1 9 end
+k2 0 end
+k2 1 end
+k2 2 end
+k2 3 end
+k2 4 end
+k2 5 end
+k2 6 end
+k2 7 end
+k4 0 end
+k4 1 end
+k4 2 end
+k4 3 end
+k4 4 end
+k4 5 end
+k4 6 end
+k4 7 end
+k4 8 end
+k4 9 end

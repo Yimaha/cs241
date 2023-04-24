@@ -1,0 +1,6 @@
+#!/bin/bash
+wlp4scan < foo.wlp4 > foo.scanned
+wlp4parse < foo.scanned > foo.wlp4i
+./wlp4gen < foo.wlp4i > foo.asm
+cs241.linkasm < foo.asm  > output.merl
+cs241.linker output.merl print.merl > foo.mips

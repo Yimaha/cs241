@@ -1,0 +1,45 @@
+4
+a
+b
+c
+d
+7
+start
+q0
+q1
+q2
+q3
+q4
+q5
+start
+1
+q5
+28
+start a q0
+start b start
+start c start
+start d start
+q0 a q0
+q0 b q1
+q0 c start
+q0 d start
+q1 a q0
+q1 b start
+q1 c q2
+q1 d start
+q2 a q3
+q2 b start
+q2 c start
+q2 d start
+q3 a q0
+q3 b q4
+q3 c start
+q3 d start
+q4 a q0
+q4 b start
+q4 c q2
+q4 d q5
+q5 a q5
+q5 b q5
+q5 c q5
+q5 d q5

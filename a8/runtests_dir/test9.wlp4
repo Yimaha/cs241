@@ -1,0 +1,67 @@
+    int wain(int* a, int b) {
+        int x = 1;
+        int y = 1;
+        int* z = NULL;
+        int* g = NULL;
+        g = &*&*z;
+        g = &x;
+        *g = y +1;
+        (*g) = x * 12;
+        while(x < b) {
+            y = 1;
+            while(y < b) {
+                println(x*y);
+                y = y + 1;
+            }
+            x = x + 1;
+        }
+        while(x > b) {
+            x = x - 1;
+        }
+        while(x == b) {
+        x = x + 1;
+        println(x);
+        }
+        while(x >= b) {
+        x = x - 1;
+        println(x + y * (3 + x + y));
+        }
+        x = x + 1;
+        while(x <= 1) {
+            x = x + 1;
+        }
+        println(3 + 5 + 9);
+        if(x >= b) {
+            x = x + 100;
+            if(x == b ) {
+                y = y * 12 + x;
+            } else {
+                
+            }
+        } else {
+            x = x - 100;
+        }
+            if(x >= b) {
+            x = x + 100;
+            if(x == b ) {
+                y = y * 12 + x;
+            } else {
+                
+            }
+        } else {
+            x = x - 100;
+        }
+            if(x >= b) {
+            x = x + 100;
+            if(x == b ) {
+                y = y * 12 + x;
+            } else {
+                
+            }
+        } else {
+            x = x - 100;
+        }
+        return *a;
+    }
+
+

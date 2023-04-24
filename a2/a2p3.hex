@@ -1,0 +1,9 @@
+.word 00001814;
+.word ffffffff;
+.word 10020006;
+.word 00002014;
+.word 00000004;
+.word 00820018;
+.word 00812020;
+.word 1c83fffc;
+.word 03e00008;

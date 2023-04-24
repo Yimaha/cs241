@@ -1,0 +1,249 @@
+  80
+  0
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  a
+  b
+  c
+  d
+  e
+  f
+  g
+  h
+  i
+  j
+  k
+  l
+  m
+  n
+  o
+  p
+  q
+  r
+  s
+  t
+  u
+  v
+  w
+  x
+  y
+  z
+  A
+  B
+  C
+  D
+  E
+  F
+  G
+  H
+  I
+  J
+  K
+  L
+  M
+  N
+  O
+  P
+  Q
+  R
+  S
+  T
+  U
+  V
+  W
+  X
+  Y
+  Z
+  {  
+  }
+  (
+  )
+  =
+  !
+  >
+  <
+  +
+  -
+  *
+  /
+  %
+  ,
+  ;
+  [
+  ]
+  &
+  6
+  start
+  q0
+  q1
+  q2
+  q3
+  end
+  start
+  4
+  q0
+  q1
+  q2
+  end
+  154
+  start A q0
+  start B q0
+  start C q0
+  start D q0
+  start E q0
+  start F q0
+  start G q0
+  start H q0
+  start I q0
+  start J q0
+  start K q0
+  start L q0
+  start M q0
+  start N q0
+  start O q0
+  start P q0
+  start Q q0
+  start R q0
+  start S q0
+  start T q0
+  start U q0
+  start V q0
+  start W q0
+  start X q0
+  start Y q0
+  start Z q0
+  start a q0
+  start b q0
+  start c q0
+  start d q0
+  start e q0
+  start f q0
+  start g q0
+  start h q0
+  start i q0
+  start j q0
+  start k q0
+  start l q0
+  start m q0
+  start n q0
+  start o q0
+  start p q0
+  start q q0
+  start r q0
+  start s q0
+  start t q0
+  start u q0
+  start v q0
+  start w q0
+  start x q0
+  start y q0
+  start z q0
+  start 1 q1
+  start 2 q1
+  start 3 q1
+  start 4 q1
+  start 5 q1
+  start 6 q1
+  start 7 q1
+  start 8 q1
+  start 9 q1
+  start > q2
+  start < q2
+  start = q2
+  start ! q3
+  start 0 end
+  start { end
+  start } end
+  start ( end
+  start ) end
+  start + end
+  start - end
+  start * end
+  start / end
+  start % end
+  start , end
+  start ; end
+  start [ end
+  start ] end
+  start & end
+  q0 A q0
+  q0 B q0
+  q0 C q0
+  q0 D q0
+  q0 E q0
+  q0 F q0
+  q0 G q0
+  q0 H q0
+  q0 I q0
+  q0 J q0
+  q0 K q0
+  q0 L q0
+  q0 M q0
+  q0 N q0
+  q0 O q0
+  q0 P q0
+  q0 Q q0
+  q0 R q0
+  q0 S q0
+  q0 T q0
+  q0 U q0
+  q0 V q0
+  q0 W q0
+  q0 X q0
+  q0 Y q0
+  q0 Z q0
+  q0 a q0
+  q0 b q0
+  q0 c q0
+  q0 d q0
+  q0 e q0
+  q0 f q0
+  q0 g q0
+  q0 h q0
+  q0 i q0
+  q0 j q0
+  q0 k q0
+  q0 l q0
+  q0 m q0
+  q0 n q0
+  q0 o q0
+  q0 p q0
+  q0 q q0
+  q0 r q0
+  q0 s q0
+  q0 t q0
+  q0 u q0
+  q0 v q0
+  q0 w q0
+  q0 x q0
+  q0 y q0
+  q0 z q0
+  q0 0 q0
+  q0 1 q0
+  q0 2 q0
+  q0 3 q0
+  q0 4 q0
+  q0 5 q0
+  q0 6 q0
+  q0 7 q0
+  q0 8 q0
+  q0 9 q0
+  q1 0 q1
+  q1 1 q1
+  q1 2 q1
+  q1 3 q1
+  q1 4 q1
+  q1 5 q1
+  q1 6 q1
+  q1 7 q1
+  q1 8 q1
+  q1 9 q1
+  q2 = end
+  q3 = end

@@ -1,0 +1,19 @@
+int wain(int x, int n) {
+    int xSquare = 0;
+    int returnValue = 1;
+    int odd = 0;
+    xSquare = x*x;
+    odd = n % 2;
+    if (odd == 1) {
+        n = n - 1;
+        returnValue = returnValue * x;
+    } else {
+
+    }
+    n = n / 2;
+    while(n > 0) {
+        returnValue = returnValue * xSquare;
+        n = n - 1;
+    }
+    return returnValue;   // unhelpful comment about summing a and b
+}

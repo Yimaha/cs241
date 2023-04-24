@@ -1,0 +1,32 @@
+int wain(int a, int b) {
+    int x = 1;
+    int y = 1;
+    while(x < a) {
+        y = 1;
+        while(y < b) {
+            println(x*y);
+            y = y + 1;
+        }
+        x = x + 1;
+    }
+    while(x > a) {
+        x = x - 1;
+    }
+    while(x == a) {
+	x = x + 1;
+	println(x);
+    }
+    while(x >= a) {
+ 	x = x - 1;
+	println(x + y * (3 + x + y));
+    }
+    x = x + 1;
+    while(x != a) {
+        x = x * 2;
+        x = x / 3;
+    }
+    println(3 + 5 + 9);
+    return a+b+x+y;
+}
+
+

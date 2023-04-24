@@ -1,0 +1,9 @@
+int main(int a, int b) {
+  int c = 0;
+  int d = 0;
+  int* f = NULL;
+  int* g = NULL;
+  f = new int[1000];
+  g = new int[10000];
+  return f - g;
+}
